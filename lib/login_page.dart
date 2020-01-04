@@ -27,10 +27,8 @@ class _MainUIState extends State<MainUI> {
           children: <Widget>[
 
             Column(
-
-              crossAxisAlignment: CrossAxisAlignment.stretch,
+              crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-
 
               children: <Widget>[
                 getImage(),

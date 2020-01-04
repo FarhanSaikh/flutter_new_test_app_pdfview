@@ -24,6 +24,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   progress_dialog: ^1.2.0
+  backdrop: ^0.1.0
+  pdf_viewer_plugin:
+  path_provider:
+  http:
 
 
 
