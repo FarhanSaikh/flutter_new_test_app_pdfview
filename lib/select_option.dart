@@ -27,11 +27,6 @@ class _mybackdropState extends State<mybackdrop> {
   Color selectedcolor = Colors.lightBlue[500];
   Color selectedtextcolor = Colors.white;
 
-
-
-
-
-
   @override
   initState() {
     super.initState();
@@ -300,4 +295,6 @@ class _mybackdropState extends State<mybackdrop> {
     );
   }
 
+
 }
+
